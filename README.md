@@ -1,2 +1,2 @@
 # Hockey-Rankings
-Hockey Rankings websigte using Laravel.
+Hockey Rankings website using Laravel.
